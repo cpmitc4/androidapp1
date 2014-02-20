@@ -1,0 +1,31 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.6.+'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "17"
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 16
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+    compile files('build/libs/twitter4j-3.0.5/lib/twitter4j-core-3.0.5.jar')
+    compile files('build/libs/google-gson-2.2.4/gson-2.2.4.jar')
+    compile files('build/libs/google-gson-2.2.4/gson-2.2.4-sources.jar')
+    compile files('build/libs/google-gson-2.2.4/gson-2.2.4-javadoc.jar')
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kentucky Space</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_blurb">
+    This application tracks the orbits of all the satellites built in the state of Kentucky in real time.  This is a mobile extension of the KySat-2 Tracker built by a Computer Science senior design
+    team at the University of Kentucky.  The tracker used is an open source project called iSat built by Koansys LLC.  This application is under development so please check back for updates!
+    </string>
+
+    <string name="pref_previously_started"></string>
+    <!--Define Strings for Info Section    -->
+    <string name="AboutStartH"> Swipe to continue</string>
+    <string name="VT">Virtual Tour</string>
+
+    <string name="AboutH1">About Kentucky Space</string>
+    <string name="AboutB1">
+    Kentucky Space LLC is an ambitious, non-profit enterprise focused on R and D, educational, small entrepreneurial and commercial space solutions.
+    </string>
+
+    <string name="AboutH2">
+    A Unique Opportunity for Research
+    </string>
+
+    <string name="AboutB2">
+    The CubeLab® research platform was born out of a need for repeatable/affordable research on the International Space Station (ISS). Kentucky Space hardware designs fit a variety of platforms on suborbit vehicles, free-flying orbiting CubeSats and ISS platforms. By providing a standardized platform and open architecture for the experimental modules, we shrink the development cycle and cost for research and development, which leads to whole new products and markets.
+    </string>
+    <string name="AboutH3">
+    What can we learn by removing gravity from the equation?
+    </string>
+
+
+    <string name="AboutB3">
+    During their evolution over billions of years, the form and function of all organisms on Earth have adapted to the force of Earth’s gravity and these characteristics are encoded in their genes: up-down asymmetry, structural strength, size of force-producing elements and sensory systems. By eliminating gravity, cells, molecules, protein crystals, microbes, etc. behave in very different ways. This presents opportunities to explore new and potentially game-changing discoveries in areas such as human tissue regeneration, drug development and treatments for diseases such as cancer and other life threatening and chronic conditions, as well as energy and novel materials.
+    </string>
+
+
+    <string name="AboutH4">
+    Communications
+    </string>
+
+
+    <string name="AboutB4">
+    Kentucky Space has a robust network of terrestrial antennas, which includes a 21-meter space tracking antenna capable of both communicating and controlling spacecraft in orbit.
+    </string>
+
+    <string name="AboutB5">
+    Kentucky Space also has a fully certified ISS Operations Center where astronaut interaction with space hardware is monitored and controlled.
+    </string>
+
+    <string name="AboutH6">
+    Systems Engineering
+    </string>
+
+    <string name="AboutB6">
+    Kentucky Space provides comprehensive support for small missions from project concept through the design, development, flight qualification, launch and operation of spacecraft and payloads. Our engineering team is capable of mechanical, software and embedded systems design and analysis.
+    </string>
+
+    <string name="AboutB7">
+    We have clean room facilities for payload integration and a full suite of test equipment capable of EMI, vibration, environmental qualification, Antenna characterization and pre-flight qualifications.
+    </string>
+
+
+    <string name="AboutH8">
+    Exomedicine Research
+    </string>
+
+    <string name="AboutB8">
+    Together with the Exomedicine Institute, Kentucky Space develops and pursues microgravity research initiatives focused on medical solutions (www.exomedicine.com).
+    </string>
+    <string name="AboutH11">
+    Education
+    </string>
+    <string name="AboutH10">
+    STE2M SpaceLab
+    </string>
+    <string name="AboutB10">
+    Kentucky Space teaches a STEM program working with high schools across the country to design and conduct real science on the International Space Station (www.stemspacelab.com).
+    </string>
+    <string name = "END"> The End</string>
+    <string name ="ENDB">Please press Back to continue.</string>
+
+    <string name="HelpTracker"> This button launches the Kentucky Satellite Tracker.  This tracker requires Mozilla Firefox to be installed. Please install Firefox before use</string>
+    <string name="HelpStatic"> This button launches a static tracker.  This tracker displays the current position of all Kentucky Satellites</string>
+    <string name="HelpInfo"> This button launches the Kentucky Space Information Virtual Tour</string>
+    <string name="HelpCall"> This button calls Kentucky Space </string>
+    <string name="HelpEmail"> This button launches your default email application with Kentucky Space contact info</string>
+</resources>

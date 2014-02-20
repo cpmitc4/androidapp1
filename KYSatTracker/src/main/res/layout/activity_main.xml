@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgtry">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="vertical"
+        android:layout_weight="1.5"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_weight="2"
+            android:layout_gravity="left"
+            android:src="@drawable/kstransparenthdlogo" />
+         <TextView
+             android:layout_height="fill_parent"
+             android:layout_width="fill_parent"
+             android:text="News"
+             android:textColor="#ffc220"
+             android:textIsSelectable="false"
+             android:textSize="35dp"
+             android:typeface="serif"
+             android:gravity="center_vertical"
+             android:layout_weight="3"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="3" >
+
+       <!--
+       Insert the twitter shize here
+       -->
+        <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:dividerHeight="2.0sp"
+            >
+
+
+        </ListView>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1.0"
+        >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                android:background = "@drawable/wheelbg">
+
+                <ImageButton
+                    android:layout_width="100dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/infotile1"
+                    android:scaleType="fitXY"
+                    android:background="@null"
+                    android:onClick="buttonOnClickAbout" />
+
+                <ImageButton
+                    android:layout_width="100dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/statictile"
+                    android:scaleType="fitXY"
+                    android:background="@null"
+                    android:onClick="buttonLaunchHeavens" />
+
+
+                <ImageButton
+                    android:layout_width="100dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/trackertile1"
+                    android:scaleType="fitXY"
+                    android:background="@null"
+                    android:onClick="buttonLaunchOnClick" />
+
+                <ImageButton
+                    android:layout_width="100dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:src="@drawable/helptile"
+                    android:scaleType="fitXY"
+                    android:background="@null"
+                    android:onClick="buttonOnClickInfo" />
+
+            </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

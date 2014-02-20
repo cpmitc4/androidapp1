@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/plainbg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="vertical"
+        android:layout_weight="2" >
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/kstransparenthdlogo"
+            android:layout_weight="1"
+            android:layout_margin="20dp"/>
+        <TextView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:text="Select a Satellite Below"
+            android:id="@+id/satelliteTextView"
+            android:layout_weight="3"
+            android:textColor="#ffc220"
+            android:typeface="serif"
+            android:textSize="20dp"
+            android:gravity="center_horizontal|bottom" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="2" >
+
+        <WebView
+            android:id="@+id/activity_main_webview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:background="@drawable/wheelbg">
+
+
+        <ImageButton
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/kysat2tile"
+            android:scaleType="fitXY"
+            android:background="@null"
+            android:id="@+id/kysat2button"
+            android:onClick="onButtonClickKySat2"/>
+
+        <ImageButton
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/eagle1tile"
+            android:scaleType="fitXY"
+            android:background="@null"
+            android:onClick="onButtonClickEagle1"
+            android:id="@+id/eagle1button" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:background="@drawable/wheelbg">
+        <ImageButton
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/eagle2tile"
+            android:scaleType="fitXY"
+            android:background="@null"
+            android:onClick="onButtonClickEagle2"
+            android:id="@+id/eagle2button" />
+        <ImageButton
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/unisattile"
+            android:scaleType="fitXY"
+            android:background="@null"
+            android:id="@+id/unisatbutton"
+            android:onClick="onButtonClickUniSat"/>
+    </LinearLayout>
+</LinearLayout>
