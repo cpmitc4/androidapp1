@@ -2,6 +2,7 @@ package com.kentuckyspacetracker;
 
 import android.content.Context;
 import android.graphics.Color;
+import android.graphics.Typeface;
 import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -60,9 +61,11 @@ class twitteradaptor extends BaseAdapter {
         TextView text1 = twoLineListItem.getText1();
         TextView text2 = twoLineListItem.getText2();
         text1.setTextColor(Color.GRAY);
+        text1.setTypeface(Typeface.DEFAULT_BOLD);
         text2.setTextColor(Color.WHITE);
         text1.setTextSize(20);
         text2.setTextSize(15);
+
         //twoLineListItem.setBackgroundResource(R.drawable.plainbg);
         //twoLineListItem.setBackgroundColor(Color.null);
         text2.setAutoLinkMask(15);

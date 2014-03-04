@@ -21,7 +21,7 @@ import android.widget.TextView;
 public class HeavensAbove extends Activity {
     private WebView mWebView;
     private  String currentSatellite;
-    public String currentSatellitename;
+
 
 
     /*
@@ -66,7 +66,6 @@ public class HeavensAbove extends Activity {
         //Save currentSatellite
         currentSatellite = "http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=1000&height=500&mode=M&satid=39384";
 
-
     }
 
     /*
@@ -94,16 +93,16 @@ public class HeavensAbove extends Activity {
         currentSatellite = "http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=1100&height=550&mode=M&satid=39434";
 
         ImageButton CurrentButton = (ImageButton)findViewById(R.id.eagle1button);
-        CurrentButton.setImageResource(R.drawable.eagle1tile);
+        CurrentButton.setImageResource(R.drawable.eagle1tile2);
 
         CurrentButton = (ImageButton)findViewById(R.id.eagle2button);
-        CurrentButton.setImageResource(R.drawable.eagle2tilepressed);
+        CurrentButton.setImageResource(R.drawable.eagle2tilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.unisatbutton);
-        CurrentButton.setImageResource(R.drawable.unisattilepressed);
+        CurrentButton.setImageResource(R.drawable.unisattilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.kysat2button);
-        CurrentButton.setImageResource(R.drawable.kysat2tilepressed);
+        CurrentButton.setImageResource(R.drawable.kysat2tilepressed2);
 
         TextView CurrentText = (TextView)findViewById(R.id.satelliteTextView);
         CurrentText.setText("Current Satellite: Eagle-1");
@@ -122,16 +121,16 @@ public class HeavensAbove extends Activity {
         mWebView.loadUrl("http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=1100&height=550&mode=M&satid=39436");
         currentSatellite = "http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=1100&height=550&mode=M&satid=39436";
            ImageButton CurrentButton = (ImageButton)findViewById(R.id.eagle2button);
-           CurrentButton.setImageResource(R.drawable.eagle2tile);
+           CurrentButton.setImageResource(R.drawable.eagle2tile2);
 
         CurrentButton = (ImageButton)findViewById(R.id.eagle1button);
-        CurrentButton.setImageResource(R.drawable.eagle1tilepressed);
+        CurrentButton.setImageResource(R.drawable.eagle1tilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.unisatbutton);
-        CurrentButton.setImageResource(R.drawable.unisattilepressed);
+        CurrentButton.setImageResource(R.drawable.unisattilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.kysat2button);
-        CurrentButton.setImageResource(R.drawable.kysat2tilepressed);
+        CurrentButton.setImageResource(R.drawable.kysat2tilepressed2);
 
         TextView CurrentText = (TextView)findViewById(R.id.satelliteTextView);
         CurrentText.setText("Current Satellite: Eagle-2");
@@ -151,16 +150,16 @@ public class HeavensAbove extends Activity {
         currentSatellite = "http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=1100&height=550&mode=M&satid=39421";
 
         ImageButton CurrentButton = (ImageButton)findViewById(R.id.unisatbutton);
-        CurrentButton.setImageResource(R.drawable.unisattile);
+        CurrentButton.setImageResource(R.drawable.unisattile2);
 
         CurrentButton = (ImageButton)findViewById(R.id.eagle1button);
-        CurrentButton.setImageResource(R.drawable.eagle1tilepressed);
+        CurrentButton.setImageResource(R.drawable.eagle1tilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.eagle2button);
-        CurrentButton.setImageResource(R.drawable.eagle2tilepressed);
+        CurrentButton.setImageResource(R.drawable.eagle2tilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.kysat2button);
-        CurrentButton.setImageResource(R.drawable.kysat2tilepressed);
+        CurrentButton.setImageResource(R.drawable.kysat2tilepressed2);
 
         TextView CurrentText = (TextView)findViewById(R.id.satelliteTextView);
         CurrentText.setText("Current Satellite: UniSat-5");
@@ -181,16 +180,16 @@ public class HeavensAbove extends Activity {
         currentSatellite = "http://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=1100&height=550&mode=M&satid=39384";
 
         ImageButton CurrentButton = (ImageButton)findViewById(R.id.kysat2button);
-        CurrentButton.setImageResource(R.drawable.kysat2tile);
+        CurrentButton.setImageResource(R.drawable.kysat2tile2);
 
         CurrentButton = (ImageButton)findViewById(R.id.eagle1button);
-        CurrentButton.setImageResource(R.drawable.eagle1tilepressed);
+        CurrentButton.setImageResource(R.drawable.eagle1tilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.eagle2button);
-        CurrentButton.setImageResource(R.drawable.eagle2tilepressed);
+        CurrentButton.setImageResource(R.drawable.eagle2tilepressed2);
 
         CurrentButton = (ImageButton)findViewById(R.id.unisatbutton);
-        CurrentButton.setImageResource(R.drawable.unisattilepressed);
+        CurrentButton.setImageResource(R.drawable.unisattilepressed2);
 
         TextView CurrentText = (TextView)findViewById(R.id.satelliteTextView);
         CurrentText.setText("Current Satellite: KySat-2");

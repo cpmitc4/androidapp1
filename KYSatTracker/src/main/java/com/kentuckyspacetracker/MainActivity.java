@@ -89,6 +89,7 @@ public class MainActivity extends ListActivity {
         //Intent myIntent = new Intent( this, AboutLauncherActivity.class) ;
         Intent myIntent = new Intent( this, NewAbout.class) ;
         startActivity(myIntent);
+        overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
 
     }
     /*
@@ -109,6 +110,7 @@ public class MainActivity extends ListActivity {
         Intent myIntent = new Intent( this, AboutLauncherActivity.class) ;
         //Intent myIntent = new Intent( this, NewAbout.class) ;
         startActivity(myIntent);
+        overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
 
     }
     /*
@@ -136,6 +138,7 @@ public class MainActivity extends ListActivity {
             intent.putExtra("args", "--url=" + url);
             intent.setData(Uri.parse(url));
             startActivity(intent);
+            overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
         }
         //Firefox isn't installed so launch prompt
         else
@@ -147,6 +150,7 @@ public class MainActivity extends ListActivity {
             );
             url_intent.addCategory(Intent.CATEGORY_BROWSABLE);
             startActivity(url_intent);
+            overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
         }
 
     }
@@ -156,13 +160,17 @@ public class MainActivity extends ListActivity {
 
     Status: Verified tr
     */
-    public void buttonLaunchHeavens(View v){
+
+    public void buttonLaunchHeavens(View v)
+    {
 
         //button click
         Intent myIntent = new Intent( this, HeavensAbove.class) ;
         startActivity(myIntent);
+        overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
 
     }
+
     public void PhoneClick (View v)
     {
         String phoneCallUri = "tel:8593251179";
@@ -171,6 +179,7 @@ public class MainActivity extends ListActivity {
         startActivity(phoneCallIntent);
 
     }
+
     public void EmailClick(View v)
     {
 

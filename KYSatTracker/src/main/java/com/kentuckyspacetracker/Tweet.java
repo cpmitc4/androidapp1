@@ -1,7 +1,9 @@
 package com.kentuckyspacetracker;
 
 /**
- * Created by New admin on 2/5/14.
+ * Class to define a single "tweet" object
+ *
+ * Status: Taken from Example Code. Verified through use.
  */
 import com.google.gson.annotations.SerializedName;
 

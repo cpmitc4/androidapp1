@@ -94,68 +94,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SplashScreen.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/SplashScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1093#2203#0" expanded="true" />
-                <element signature="e#2192#2193#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tweet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Tweet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1156">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Twitter.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Twitter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="236" selection-end="236" vertical-scroll-proportion="0.32130584" vertical-offset="0" max-vertical-offset="582">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AboutLauncherActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/AboutLauncherActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="70" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Authenticated.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Authenticated.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeavensAbove.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/HeavensAbove.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="35" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="6562">
+            <state line="220" column="52" selection-start="7626" selection-end="7626" vertical-scroll-proportion="0.0" vertical-offset="2720" max-vertical-offset="5984">
               <folding />
             </state>
           </provider>
@@ -164,9 +106,63 @@
       <file leaf-file-name="NewAbout.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/NewAbout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="31" selection-start="3021" selection-end="3021" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+            <state line="55" column="0" selection-start="2374" selection-end="2374" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1258">
+              <folding>
+                <element signature="e#1648#1675#0" expanded="true" />
+                <element signature="e#1676#1703#0" expanded="true" />
+                <element signature="e#1778#1805#0" expanded="true" />
+                <element signature="e#1807#1834#0" expanded="true" />
+                <element signature="e#1882#1912#0" expanded="true" />
+                <element signature="e#1914#1941#0" expanded="true" />
+                <element signature="e#1989#2025#0" expanded="true" />
+                <element signature="e#2027#2054#0" expanded="true" />
+                <element signature="e#2102#2131#0" expanded="true" />
+                <element signature="e#2133#2160#0" expanded="true" />
+                <element signature="e#2210#2237#0" expanded="true" />
+                <element signature="e#2238#2265#0" expanded="true" />
+                <element signature="e#2312#2339#0" expanded="true" />
+                <element signature="e#2340#2367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authenticated.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Authenticated.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MyFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="0" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1343">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="162" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="2312">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myfragment_layout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/myfragment_layout.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="42" selection-start="1753" selection-end="1753" vertical-scroll-proportion="-18.185184" vertical-offset="359" max-vertical-offset="1360">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -528,30 +524,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/twitterhandler.xml" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MyFragment.java" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/First_Time_Tour.java" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/TourFragments.java" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/tour_layout.xml" />
         <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/activity_splash.xml" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/aboutlauncher.xml" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/heavensabovelayout.xml" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/HeavensAbove.java" />
         <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/SplashScreen.java" />
-        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/AboutLauncherActivity.java" />
         <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Authenticated.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Tweet.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/HeavensAbove.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/twitteradaptor.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/aboutlauncher.xml" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/AboutLauncherActivity.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/heavensabovelayout.xml" />
         <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MainActivity.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/layout/myfragment_layout.xml" />
         <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/NewAbout.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MyFragment.java" />
+        <option value="$PROJECT_DIR$/KYSatTracker/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+    <option name="width" value="1698" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -579,7 +575,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -752,7 +748,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -956,7 +952,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1698" height="1020" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -970,15 +966,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34015927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2078125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2077381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -995,20 +991,20 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2077381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972324" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972324" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329849" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34015927" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1027,133 +1023,147 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MyFragment.java">
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/twitteractivity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/myfragment_layout.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/newaboutlayout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="27" selection-start="0" selection-end="2528" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1343">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1391" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="40" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="2006">
-          <folding />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/aboutlauncher.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="58" column="33" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0" vertical-offset="725" max-vertical-offset="2890">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Tweet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="125" selection-start="1281" selection-end="1281" vertical-scroll-proportion="0.79291046" vertical-offset="0" max-vertical-offset="1598">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/activity_splash.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="39" selection-start="235" selection-end="235" vertical-scroll-proportion="0.15315315" vertical-offset="0" max-vertical-offset="555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/heavensabovelayout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="20" selection-start="3251" selection-end="3251" vertical-scroll-proportion="0.58198196" vertical-offset="1224" max-vertical-offset="1819">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/AboutLauncherActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="70" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Authenticated.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state line="9" column="20" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/HeavensAbove.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
+        <state line="190" column="69" selection-start="7829" selection-end="7829" vertical-scroll-proportion="0.63586956" vertical-offset="2709" max-vertical-offset="3298">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/twitteradaptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1755" selection-end="1755" vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/aboutlauncher.xml">
+      <provider editor-type-id="text-editor">
+        <state line="90" column="0" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="1149" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/AboutLauncherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/heavensabovelayout.xml">
+      <provider editor-type-id="text-editor">
+        <state line="70" column="25" selection-start="2383" selection-end="2383" vertical-scroll-proportion="0.0" vertical-offset="995" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="16" selection-start="2020" selection-end="2095" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="1241">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="35" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="6562">
+        <state line="220" column="52" selection-start="7626" selection-end="7626" vertical-scroll-proportion="0.0" vertical-offset="2720" max-vertical-offset="5984">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Authenticated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/layout/myfragment_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="42" selection-start="1753" selection-end="1753" vertical-scroll-proportion="-18.185184" vertical-offset="359" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/NewAbout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="31" selection-start="3021" selection-end="3021" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/SplashScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
+        <state line="55" column="0" selection-start="2374" selection-end="2374" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1258">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1093#2203#0" expanded="true" />
-            <element signature="e#2192#2193#0" expanded="true" />
+            <element signature="e#1648#1675#0" expanded="true" />
+            <element signature="e#1676#1703#0" expanded="true" />
+            <element signature="e#1778#1805#0" expanded="true" />
+            <element signature="e#1807#1834#0" expanded="true" />
+            <element signature="e#1882#1912#0" expanded="true" />
+            <element signature="e#1914#1941#0" expanded="true" />
+            <element signature="e#1989#2025#0" expanded="true" />
+            <element signature="e#2027#2054#0" expanded="true" />
+            <element signature="e#2102#2131#0" expanded="true" />
+            <element signature="e#2133#2160#0" expanded="true" />
+            <element signature="e#2210#2237#0" expanded="true" />
+            <element signature="e#2238#2265#0" expanded="true" />
+            <element signature="e#2312#2339#0" expanded="true" />
+            <element signature="e#2340#2367#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Tweet.java">
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/MyFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1156">
+        <state line="69" column="0" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/java/com/kentuckyspacetracker/Twitter.java">
+    <entry file="file://$PROJECT_DIR$/KYSatTracker/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="236" selection-end="236" vertical-scroll-proportion="0.32130584" vertical-offset="0" max-vertical-offset="582">
+        <state line="17" column="162" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="2312">
           <folding />
         </state>
       </provider>

@@ -10,6 +10,7 @@ import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,23 +34,25 @@ public class NewAbout extends FragmentActivity {
         List<Fragment> fragments = getFragments();
         pageAdapter = new MyPageAdapter(getSupportFragmentManager(), fragments);
         ViewPager pager = (ViewPager)findViewById(R.id.viewpager);
+        TextView text1 = (TextView)findViewById(R.layout.myfragment_layout);
         pager.setAdapter(pageAdapter);
     }
     private List<Fragment> getFragments(){
         List<Fragment> fList = new ArrayList<Fragment>();
 
         //Populate Fragments before display
-        fList.add(MyFragment.newInstance(getString(R.string.AboutStartH),getString(R.string.VT)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB1),getString(R.string.AboutH1)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB2),getString(R.string.AboutH2)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB3),getString(R.string.AboutH3)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB4),getString(R.string.AboutH4)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB5),getString(R.string.AboutH4)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB6),getString(R.string.AboutH6)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB7),getString(R.string.AboutH6)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB8),getString(R.string.AboutH8)));
-        fList.add(MyFragment.newInstance(getString(R.string.AboutB10),getString(R.string.AboutH10)));
-        fList.add(MyFragment.newInstance(getString(R.string.ENDB),getString(R.string.END)));
+        //About KySpace
+        fList.add(MyFragment.newInstance(getString(R.string.AboutB1),getString(R.string.AboutH1), 1));
+        //About Satellites
+        fList.add(MyFragment.newInstance(getString(R.string.k2about), getString(R.string.AboutH2), 2));
+        fList.add(MyFragment.newInstance(getString(R.string.tlogoabout), getString(R.string.AboutH2), 3));
+        fList.add(MyFragment.newInstance(getString(R.string.eagle250satabout), getString(R.string.AboutH2), 4));
+        fList.add(MyFragment.newInstance(getString(R.string.cxbnabout), getString(R.string.AboutH2), 5));
+
+
+        fList.add(MyFragment.newInstance(getString(R.string.AboutB3),getString(R.string.AboutH3),1));
+        fList.add(MyFragment.newInstance(getString(R.string.AboutB8),getString(R.string.AboutH8),6));
+
 
         return fList;
     }

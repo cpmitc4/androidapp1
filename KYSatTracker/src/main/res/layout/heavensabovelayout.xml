@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/plainbg">
+    android:background="@drawable/bgtry">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,9 +26,9 @@
             android:id="@+id/satelliteTextView"
             android:layout_weight="3"
             android:textColor="#ffc220"
-            android:typeface="serif"
             android:textSize="20dp"
-            android:gravity="center_horizontal|bottom" />
+            android:gravity="center_horizontal|bottom"
+            android:textStyle="bold" />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -58,7 +58,7 @@
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:src="@drawable/kysat2tilepressed"
+            android:src="@drawable/kysat2tilepressed2"
             android:scaleType="fitXY"
             android:background="@null"
             android:id="@+id/kysat2button"
@@ -68,7 +68,7 @@
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:src="@drawable/eagle1tilepressed"
+            android:src="@drawable/eagle1tilepressed2"
             android:scaleType="fitXY"
             android:background="@null"
             android:onClick="onButtonClickEagle1"
@@ -84,7 +84,7 @@
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:src="@drawable/eagle2tilepressed"
+            android:src="@drawable/eagle2tilepressed2"
             android:scaleType="fitXY"
             android:background="@null"
             android:onClick="onButtonClickEagle2"
@@ -93,7 +93,7 @@
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:src="@drawable/unisattilepressed"
+            android:src="@drawable/unisattilepressed2"
             android:scaleType="fitXY"
             android:background="@null"
             android:id="@+id/unisatbutton"

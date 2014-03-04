@@ -6,7 +6,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:background="@drawable/plainbg">
+            android:background="@drawable/bgtry">
 
 
             <ScrollView
@@ -35,36 +35,12 @@
                             android:textColor="#ffc220"
                             android:textIsSelectable="false"
                             android:textSize="35dp"
-                            android:typeface="serif"
                             android:gravity="center_vertical|center_horizontal"
-                            android:layout_weight="3"/>
+                            android:layout_weight="3"
+                            android:textStyle="bold" />
 
 
 
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="0dip"
-                        android:orientation="horizontal"
-                        android:layout_weight="1"
-                        >
-
-                        <ImageView
-                            android:layout_width="0dip"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:src="@drawable/trackertile1"/>
-
-                        <TextView
-                            android:layout_width="0dip"
-                            android:layout_height="match_parent"
-
-                            android:textSize="20dp"
-                            android:layout_weight="2"
-                            android:text="@string/HelpTracker"
-                            android:textColor="#ffc220"
-                            android:gravity="center_vertical|left" />
                     </LinearLayout>
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -76,7 +52,8 @@
                             android:layout_width="0dip"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
-                            android:src="@drawable/statictile"/>
+                            android:src="@drawable/statictile"
+                            android:onClick="buttonLaunchHeavens" />
 
                         <TextView
                             android:layout_width="0dip"
@@ -98,51 +75,8 @@
                             android:layout_width="0dip"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
-                            android:src="@drawable/infotile1"/>
-
-                        <TextView
-                            android:layout_width="0dip"
-                            android:layout_height="match_parent"
-                            android:gravity="center_vertical|left"
-                            android:textSize="20dp"
-                            android:layout_weight="2"
-                            android:text="@string/HelpInfo"
-                            android:textColor="#ffc220" />
-                    </LinearLayout>
-                    <!--Help Bar 1 -->
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="0dip"
-                        android:orientation="horizontal"
-                        android:layout_weight="1" >
-
-                        <ImageView
-                            android:layout_width="0dip"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:src="@drawable/calltile"/>
-
-                        <TextView
-                            android:layout_width="0dip"
-                            android:layout_height="match_parent"
-                            android:gravity="center_vertical|left"
-                            android:textSize="20dp"
-                            android:layout_weight="2"
-                            android:text="@string/HelpCall"
-                            android:textColor="#ffc220" />
-                    </LinearLayout>
-                    <!--Help Bar 1 -->
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="0dip"
-                        android:orientation="horizontal"
-                        android:layout_weight="1" >
-
-                        <ImageView
-                            android:layout_width="0dip"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:src="@drawable/mailtile"/>
+                            android:src="@drawable/mailtile"
+                            android:onClick="EmailClick" />
 
                         <TextView
                             android:layout_width="0dip"
@@ -153,6 +87,58 @@
                             android:text="@string/HelpEmail"
                             android:textColor="#ffc220" />
                     </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dip"
+                        android:orientation="horizontal"
+                        android:layout_weight="1"
+                        >
+
+                        <ImageView
+                            android:layout_width="0dip"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:src="@drawable/trackertile1"
+                            android:onClick="buttonLaunchOnClick" />
+
+                        <TextView
+                            android:layout_width="0dip"
+                            android:layout_height="match_parent"
+
+                            android:textSize="20dp"
+                            android:layout_weight="2"
+                            android:text="@string/HelpTracker"
+                            android:textColor="#ffc220"
+                            android:gravity="center_vertical|left" />
+                    </LinearLayout>
+
+                    <!--Help Bar 1 -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dip"
+                        android:orientation="horizontal"
+                        android:layout_weight="1" >
+
+                        <ImageView
+                            android:layout_width="0dip"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:src="@drawable/infotile1"
+                            android:onClick="buttonOnClickAbout" />
+
+                        <TextView
+                            android:layout_width="0dip"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|left"
+                            android:textSize="20dp"
+                            android:layout_weight="2"
+                            android:text="@string/HelpInfo"
+                            android:textColor="#ffc220" />
+                    </LinearLayout>
+
+
+
 
                 </LinearLayout>
 

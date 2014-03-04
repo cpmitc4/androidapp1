@@ -15,12 +15,50 @@
 
     <string name="AboutH1">About Kentucky Space</string>
     <string name="AboutB1">
-    Kentucky Space LLC is an ambitious, non-profit enterprise focused on R and D, educational, small entrepreneurial and commercial space solutions.
+    Kentucky Space LLC is an ambitious, non-profit enterprise focused on R and D, educational, small entrepreneurial and commercial space solutions. \n\n Swipe to Continue.
     </string>
 
     <string name="AboutH2">
-    A Unique Opportunity for Research
+    Kentucky Space and Partner Satellites in Orbit
     </string>
+
+    <string name="k2about">
+     KySat-2:\n
+     Launched 11/19/2013 from Wallops Island Virginia
+     Orbit 500 km by 40.6 degree inclination
+     KySat-2 is a 1U CubeSat fulfilling the original educational outreach and
+    technology demonstrator goals of KySat-1 while additionally testing a
+    attitude determination system that uses the satellites existing camera.
+    The spacecraft transmitted at 437.405 MHz and can be tracked by amateur
+    radio stations.
+    </string>
+    <string name ="tlogoabout">
+        T-LogoQube (Eagle-1):\n
+        Launched 11/20/2013 from Yasny Russia
+        Orbit 630 x 490 km at 96 degrees inclination
+        T-LogoQube is a technology demonstrator for PocketQube class satellites.
+    </string>
+    <string name = "eagle250satabout">
+        $50 Sat (Eagle-2):\n
+        Launched 11/20/2013 from Yasny Russia
+        Orbit 630 x 490 km at 96 degrees inclination
+        $50 Sat is a demonstrator to create a cost effective platform for
+        engineering and science students for developing real world skills. Data is
+        transmitted through FM morse code. $50 sat is a collaborative education
+        project between Professor Bob Twiggs, Morehead State University, and 3
+        amateur radio operators; Howie DeFelice AB2S, Michael Kirkhard KD8QBA, and
+        Stuart Robinson GW7HPW.
+    </string>
+    <string name = "cxbnabout">
+        CXBN:\n
+        Launched 9/17/2012 from Vandenberg AFB
+        Orbit 385 by 800 km at 60 degree inclination
+        CXBN is a 2U CubeSat built by Kentucky Space partner Morehead State
+        University to measure the cosmic X-Ray background of the universe in the
+        30 - 50 KeV range.
+    </string>
+
+
 
     <string name="AboutB2">
     The CubeLab® research platform was born out of a need for repeatable/affordable research on the International Space Station (ISS). Kentucky Space hardware designs fit a variety of platforms on suborbit vehicles, free-flying orbiting CubeSats and ISS platforms. By providing a standardized platform and open architecture for the experimental modules, we shrink the development cycle and cost for research and development, which leads to whole new products and markets.
@@ -66,7 +104,7 @@
     </string>
 
     <string name="AboutB8">
-    Together with the Exomedicine Institute, Kentucky Space develops and pursues microgravity research initiatives focused on medical solutions (www.exomedicine.com).
+    Together with the Exomedicine Institute, Kentucky Space develops and pursues microgravity research initiatives focused on medical solutions. \n\nClick For More Information! \n\nwww.exomedicine.com.
     </string>
     <string name="AboutH11">
     Education
@@ -80,9 +118,13 @@
     <string name = "END"> The End</string>
     <string name ="ENDB">Please press Back to continue.</string>
 
+
+
+
+    <!--  Help Strings  -->
     <string name="HelpTracker"> This button launches the Kentucky Satellite Tracker.  This tracker requires Mozilla Firefox to be installed. Please install Firefox before use</string>
     <string name="HelpStatic"> This button launches a static tracker.  This tracker displays the current position of all Kentucky Satellites</string>
-    <string name="HelpInfo"> This button launches the Kentucky Space Information Virtual Tour</string>
+    <string name="HelpInfo"> This button launches the Kentucky Space Information Page</string>
     <string name="HelpCall"> This button calls Kentucky Space </string>
-    <string name="HelpEmail"> This button launches your default email application with Kentucky Space contact info</string>
+    <string name="HelpEmail"> Click Here to email Kentucky Space</string>
 </resources>
